@@ -1,0 +1,123 @@
+body {
+  background-color: #bd2ed5;
+}
+
+.cont {
+  height: 400px;
+  width: 350px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 100px;
+  box-sizing: border-box;
+}
+
+.hd {
+  height: 80px;
+  padding: 20px;
+}
+
+.hd>h1 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.lnk {
+  height: 50px;
+}
+
+.lnk>button {
+  height: 40px;
+  width: 150px;
+  margin: 0px 10px 5px;
+}
+
+#fb {
+  background-color: #3e65aa;
+  color: #ffffff;
+  text-transform: capitalize;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+}
+
+#tw {
+  background-color: #1da1eb;
+  color: #ffffff;
+  text-transform: capitalize;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+}
+
+.fom {
+  height: 200px;
+}
+
+.op {
+  height: 40px;
+  width: 300px;
+  margin: 5px 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding-left: 10px;
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+
+.for {
+  height: 35px;
+  width: 300px;
+  margin: 0px 24px;
+}
+
+.for>div {
+  display: inline-block;
+  width: 120px;
+}
+
+#rem>label {
+  text-transform: capitalize;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+#oo {
+  accent-color: #bd2ed5;
+}
+
+#anh>a {
+  position: relative;
+  left: 50px;
+  text-transform: capitalize;
+  text-decoration: none;
+  color: #bd2ed5;
+}
+
+#lgn {
+  height: 50px;
+  width: 300px;
+  margin: 5px 20px;
+  text-transform: capitalize;
+  color: #ffffff;
+  background-color: #bd2ed5;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.pro {
+  height: 50px;
+}
+
+.pro>a {
+  position: relative;
+  left: 100px;
+  text-decoration: none;
+  color: black;
+}
+
+#sp {
+  color: #bd2ed5;
+}
